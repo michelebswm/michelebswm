@@ -1,19 +1,15 @@
-### Hi there 👋
+## Olá, sou Michele! 👋
 
-<!--
-**michelebswm/michelebswm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por programação e estou constantemente em busca de novos desafios para expandir meu conhecimento. Aqui estão algumas coisas sobre mim:
 
-Here are some ideas to get you started:
+- 💻 Atualmente, estou focado em programação Python, SQL, HTML, CSS e JavaScript.
+- 📚 Adoro estudar e aprender coisas novas no mundo da tecnologia.
+- 💡 Estou sempre em busca de projetos interessantes para contribuir e colaborar.
+- 🌟 Sou entusiasta da open source e acredito no poder da comunidade de desenvolvedores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fique à vontade para explorar meus projetos e entre em contato se quiser colaborar ou trocar ideias! 😊
+
+
 ## :keyboard: Hard Skills:
 [![My Skills](https://skillicons.dev/icons?i=python,postgres,html,css,js,nodejs)](https://skillicons.dev)
 
