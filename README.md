@@ -14,3 +14,5 @@ Fique à vontade para explorar meus projetos e entre em contato se quiser colabo
 [![My Skills](https://skillicons.dev/icons?i=python,postgres,html,css,js,nodejs)](https://skillicons.dev)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=michelebswm&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+
+<!-- ![Jess GitHub stats](https://github-readme-stats.vercel.app/api?username=michelebswm&show_icons=true&theme=radical) -->
