@@ -11,7 +11,7 @@ Fique à vontade para explorar meus projetos e entre em contato se quiser colabo
 
 
 ## :keyboard: Hard Skills:
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,html,css,js,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,html,css,js,java)](https://skillicons.dev)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=michelebswm&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
