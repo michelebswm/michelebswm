@@ -13,6 +13,6 @@ Fique à vontade para explorar meus projetos e entre em contato se quiser colabo
 ## :keyboard: Hard Skills:
 [![My Skills](https://skillicons.dev/icons?i=python,postgres,html,css,js,java)](https://skillicons.dev)
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=michelebswm&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+![michelebswm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michelebswm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!-- ![Jess GitHub stats](https://github-readme-stats.vercel.app/api?username=michelebswm&show_icons=true&theme=radical) -->
