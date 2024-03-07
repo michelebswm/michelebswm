@@ -2,7 +2,7 @@
 
 Sou apaixonada por programação e estou constantemente em busca de novos desafios para expandir meu conhecimento. Aqui estão algumas coisas sobre mim:
 
-- 💻 Atualmente, estou focada em programação Python, SQL, HTML, CSS e JavaScript. Recentemente iniciei um curso de Java.
+- 💻 Atualmente, estou focada em programação Python, SQL, Java, Spring Boot, HTML, CSS e JavaScript.
 - 📚 Adoro estudar e aprender coisas novas no mundo da tecnologia.
 - 💡 Estou sempre em busca de projetos interessantes para contribuir e colaborar.
 - 🌟 Sou entusiasta da open source e acredito no poder da comunidade de desenvolvedores.
